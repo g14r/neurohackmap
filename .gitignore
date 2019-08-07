@@ -122,3 +122,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+NeuroMap-38responses.csv
+NeuroMap_answers.csv
