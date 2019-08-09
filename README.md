@@ -34,5 +34,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Authors
-Antonija Kolobaric, Giacomo Ariani, Hannah Coyle, Johnny Lau, Daria Broklova
+Antonija Kolobaric, Giacomo Ariani, Hannah Coyle, Johnny Lau, Daria Proklova
 
