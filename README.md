@@ -1,6 +1,6 @@
 # Neurohackmap
 
-Neurohackmap is a project created at Neurohackademy_2019 and is a collection of scripts to generate interactive visualisations of participants education and research training across time. 
+Neurohackmap is a project created at [Neurohackademy_2019](https://github.com/g14r/2019_projects) and is a collection of scripts to generate interactive visualisations of participants education and research training across time. 
 
 Documents included are:
 1. Questionnaire to collect information from participants (originally done in Google Docs, saved in .html form)
