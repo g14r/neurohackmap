@@ -1,6 +1,6 @@
 # Neurohackmap
 
-(https://raw.githubusercontent.com/g14r/neurohackmap/master/example_map.png)
+![](https://raw.githubusercontent.com/g14r/neurohackmap/master/example_map.png)
 
 Neurohackmap is a project created at [Neurohackademy_2019](https://github.com/g14r/2019_projects) and is a collection of scripts to generate interactive visualizations of participants education and research training across time.
 
