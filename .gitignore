@@ -1,3 +1,4 @@
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,3 +127,4 @@ dmypy.json
 NeuroMap-38responses.csv
 NeuroMap_answers.csv
 temp.png
+NeuroMap 2.csv
